@@ -62,7 +62,7 @@ Kurulum
    password="masterkey"
 
 4. Uygulamayı çalıştırın:
-   python otel_app.py
+   python OYS.py
 
 
 Not
