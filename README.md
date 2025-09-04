@@ -50,7 +50,7 @@ Kurulum
 ----------
 
 1. Bu projeyi bilgisayarınıza klonlayın:
-   git clone https://github.com/kullaniciadi/otel-yonetim-sistemi.git
+   git clone https://github.com/Cngzsafa/otel-yonetim-sistemi.git
 
 2. Gerekli Python kütüphanelerini yükleyin:
    pip install fdb
